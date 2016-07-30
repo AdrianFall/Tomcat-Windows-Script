@@ -16,7 +16,7 @@ This tutorial explains how to install multiple tomcat instances on a Windows mac
 ### Example (On fresh tomcat installation and default service.bat)
  * Rename the bin/tomcat7.exe to bin/ProjName-Tomcat7.exe
  * Rename the bin/tomcat7w.exe to bin/ProjName-Tomcat7w.exe
- * Replace all occurences of "%CATALINA_HOME%\bin\tomcat7.exe" with "%CATALINA_HOME%\bin\ProjName-Tomcat7.exe"
+ * Replace all occurences of "%CATALINA_HOME%\bin\tomcat7.exe" with "%CATALINA_HOME%\bin\ProjName-Tomcat7.exe" in service.bat
  * install.bat "C:\Apache\Tomcat 7.0\bin" "ProjName-Tomcat7" "ProjName-Tom7" "The description"
 
 ### Service startup errors
