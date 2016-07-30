@@ -3,7 +3,7 @@
 This tutorial explains how to install multiple tomcat instances on a Windows machine. 
 
 ### USAGE
-	Execute with admin privileges the following command: install.bat "BINPATH" "SERVICE_NAME" "SERVICE_DISPLAY"  "SERVICE_DESCRIPTION"
+	Execute with **admin privileges** the following command: install.bat "BINPATH" "SERVICE_NAME" "SERVICE_DISPLAY"  "SERVICE_DESCRIPTION"
 
 ### Ensure
  * The service.bat is present in /bin
